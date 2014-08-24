@@ -1,4 +1,4 @@
 ArduinoMathematicaSimple
 ========================
 
-Arduino Mathematica linkup
+Arduino Mathematica linkup examples
